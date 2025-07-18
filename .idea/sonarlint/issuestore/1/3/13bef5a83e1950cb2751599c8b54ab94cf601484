@@ -1,0 +1,17 @@
+
+Z
+java:S1226'">Introduce a new variable instead of reusing the parameter "q".(™ €q8Ãƒ·å³1
+]
+java:S1854>";Remove this useless assignment to local variable "chaotic".(È²²ıÿÿÿÿ8ÿƒ·å³1
+[
+java:S16122"9Replace this lambda with method reference 'qstr::append'.(ı©ÃÇúÿÿÿÿ8ƒ„·å³1
+G
+java:S14816"+Remove this unused "bribes" local variable.(·«ót8„„·å³1
+N
+java:S14817",Remove this unused "chaotic" local variable.(ğÆ×Îÿÿÿÿÿ8„„·å³1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8‡„·å³1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8‡„·å³1
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ˆ„·å³1

@@ -1,0 +1,9 @@
+
+L	java:S106$"+Replace this use of System.out by a logger.(‡Ë©õûÿÿÿÿ8¤„·å³1
+]	java:S125#"<This block of commented-out lines of code should be removed.(…ÿî›ùÿÿÿÿ8¤„·å³1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8¨„·å³1
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð18¨„·å³1
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8¨„·å³1

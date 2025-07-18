@@ -1,0 +1,9 @@
+
+w
+java:S1104"ZMake numTargetNodes a static final constant or non-public and provide accessors if needed.(¼ÇÂ8İÜ²£¯1
+q
+java:S1104"TMake ancestor a static final constant or non-public and provide accessors if needed.(Ğ†øè8ŞÜ²£¯1
+o	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„Ø¯üÿÿÿÿ8àÜ²£¯1
+j	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÖƒ”8áÜ²£¯1
+L	java:S106\"+Replace this use of System.out by a logger.(»Ÿ±ïıÿÿÿÿ8Å”·£¯1
+L	java:S106]"+Replace this use of System.out by a logger.( ¨õÙùÿÿÿÿ8ù¤¾£¯1

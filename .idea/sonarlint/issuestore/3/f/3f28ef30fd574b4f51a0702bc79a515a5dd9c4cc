@@ -1,0 +1,7 @@
+
+`
+java:S16590">Declare "j" and all following declarations on a separate line.(ãäÚ‘üÿÿÿÿ8ï‚·å³1
+F
+java:S2140F")Use "java.util.Random.nextInt()" instead.(õ‡îŒ8ñ‚·å³1
+G	java:S106H"+Replace this use of System.out by a logger.(³ˆÍò8ò‚·å³1
+L	java:S106J"+Replace this use of System.out by a logger.(·‘ºûúÿÿÿÿ8ó‚·å³1
